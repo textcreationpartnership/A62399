@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch and Irish post giving a faithful account of the affairs of both kingdoms.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62399</idno><idno type="EEBO-CITATION">13708699</idno>
+  <idno type="VID">101513</idno>
+  <idno type="EEBO-PROQUEST">2240868943</idno>
+  
+            <idno type="STC">Wing S950A</idno>
+            <idno type="STC">ESTC R6959</idno>
+            <idno type="OCLC">13708699</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch and Irish post giving a faithful account of the affairs of both kingdoms.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Politics and government --  1689-1745.</term>
+               <term type="geographic_name">Scotland --  History --  1689-1745.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1690.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101513:1"/>
+            <head>THE Scotch and Irish Post. GIVING <hi>A Faithful Account of the Affairs of both Kingdoms.</hi>
+            </head>
+            <p>BY Letters from <hi>Edinburgh,</hi> bearing Date the 6th Instant, we are told, a Gentleman came from <hi>Ireland,</hi> whose Name is Mr. <hi>Oneale,</hi> but Married in <hi>Scotland</hi> to the Lady <hi>Bute,</hi> who gave an Account to the Council, That Sir <hi>William Ellis,</hi> who supply'd the Earl of <hi>Melford</hi>'s place of <hi>Secretary</hi> of <hi>State,</hi> and se<g ref="char:EOLhyphen"/>veral others of the <hi>Irish</hi> Nobility, had desert<g ref="char:EOLhyphen"/>ed the late King, and were gone to Duke <hi>Schombe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh</hi>'s Camp, foreseeing their own ine<g ref="char:EOLhyphen"/>vitable Ruin should they stay to partake with the late King in his unavoidable Misfortunes. A piece of Prudence common to Rats and Mice, <hi>To forsake a falling House.</hi> Withal he gives a farther Account, That the late King's Army, together with the <hi>French</hi> Recruits, will very near amount to Sixty Thousand Men, but that provisions, (without which 60000 Men signifie but little,) are extreamly scarce among them; besides, that the Country People are totally Ruin'd with bad Money, and ill Pay<g ref="char:EOLhyphen"/>ment. On the other side, that Duke <hi>Schom<g ref="char:EOLhyphen"/>bergh</hi>'s Army is no less than Forty Thousand, besides the Additional Forces which are ex<g ref="char:EOLhyphen"/>pected with his Majesty out of <hi>England</hi> and <hi>Scotland;</hi> and that there is a very great Plen<g ref="char:EOLhyphen"/>ty of all manner of Provisions; besides, that the Soldiers are much encourag'd by the pre<g ref="char:EOLhyphen"/>sence of General <hi>Dowglass.</hi> Sir <hi>Evan Cameron</hi> is certainly Dead. And the best Account how he came by his Death, is as follows: The Re<g ref="char:EOLhyphen"/>bels not well pleas'd with the ill Success of their Affairs, resolv'd to send some persons of their Number to the late King, to let him know the badness of the Condition they were in, which was such, that they should not be able to hold out against the powerful Forces that were coming against them without speedy Succor. In the midst of which Consultation, Sir <hi>John Drummond</hi> of <hi>Maccany</hi> could not for<g ref="char:EOLhyphen"/>bear, as occasion offer'd, to tell <hi>Macdonald</hi> of <hi>Glengary,</hi> that King <hi>James</hi>'s Thirteen Prose<g ref="char:EOLhyphen"/>lites had been his Ruin. At which <hi>Mackdo<g ref="char:EOLhyphen"/>nald</hi> taking fire, in a great heat told Sir <hi>John Drummond,</hi> He was a Rogue; and that he was as good a Protestant as himself. Presently upon this they both drew, at what time the Laird of <hi>Lockziel</hi> running in to part the two eager Combatants, receiv'd his Deaths wound, of which he Dy'd after. A loss of Importance to the Rebels, in regard that this Sir <hi>Evan Ca<g ref="char:EOLhyphen"/>meron</hi> was a person little inferior in Authority and Command among his own and several o<g ref="char:EOLhyphen"/>ther <hi>Clans</hi> adjoining, than either <hi>Dundee,</hi> or the Duke of <hi>Gourdon</hi> himself, and no less be<g ref="char:EOLhyphen"/>lov'd than either, being a person both Daring and Graceful. Two great Attractives of In<g ref="char:EOLhyphen"/>ferior Awe and Veneration.</p>
+            <p>Since the Defeat given to the Rebels by the Prudent Conduct of Sir <hi>Thomas Levingston</hi> and Major <hi>Mackey,</hi> Letters of a later Date make this Addition, That the Victors understand<g ref="char:EOLhyphen"/>ing that <hi>Buchan</hi> and <hi>Cannon</hi> were fled different ways, during the heat of the Action, they thought it convenient to bend the strength of their pursuit after <hi>Cannon,</hi> and his Party, as being the most considerable; of which a fuller Account is expected by the next.</p>
+            <p>From <hi>Clownish</hi> we are inform'd, that it has been thought convenient to raise two <hi>Danish</hi> Forts not far distant one Story higher than the old Foundation. Which, tho' it may seem of little Consequence at first Sight, yet, in the Ef<g ref="char:EOLhyphen"/>fects, is Remarkable: For it has struck a strange Terror into the Superstitious Red Letter'd Crew in these parts, upon the Score of a cer<g ref="char:EOLhyphen"/>tain Prophesie, still prevailing among the ig<g ref="char:EOLhyphen"/>norant Multitude, <hi>That they shall one Day be subdu'd by the</hi> Danes. For our parts we take no Care to inform them better: For it is half a Conquest to gain upon the Mind by Fright of Superstition. And this was experienced by the late Approach of the <hi>Danes</hi> to <hi>Belturbet,</hi> at what time the <hi>Irish</hi> fled, like so many Deer before a pack of Hounds.</p>
+            <p>By a Letter dated from <hi>Edinburgh</hi> the 8th In<g ref="char:EOLhyphen"/>stant, we have this Account from <hi>Ireland,</hi> that about the latter end of <hi>April,</hi> Colonel <hi>Gustavus Hamilton</hi> marched from his Garison at <hi>Clow<g ref="char:EOLhyphen"/>nish</hi> with a small party into the Enemies Coun<g ref="char:EOLhyphen"/>try, and brought away 200 Cows, 400 Sheep, and a great many Garrons: And tho' they passed by several of the <hi>Irish</hi> Garisons, they met with no Opposition, but got safe with their Booty to their Quarters.</p>
+            <p>Upon the 22d of <hi>April,</hi> a party of 400 <hi>Irish</hi> got safe into <hi>Charlemont,</hi> but we do not hear that they furnished the Garison with a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y more
+<pb facs="tcp:101513:2"/> provisions than what they carry'd upon their backs. Nor is this Recruit much valued by the more experienced Commanders here, who generally concur, that the Situation of that place do's not require great Numbers of Men for its De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence. It <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s also sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Late King ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>veral VV<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Quali<g ref="char:EOLhyphen"/>ty to depart <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of <hi>Dubli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ret<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g un<g ref="char:EOLhyphen"/>der the protection of the <hi>English</hi> Army, report, that there is great Clashing between the <hi>Irish</hi> and <hi>French</hi> Factions; but that the late King, conceiving the <hi>Irish</hi> to be his best Support, at present most complies with and favours them. They add, that <hi>Tyrconnel,</hi> and the <hi>French</hi> Gene<g ref="char:EOLhyphen"/>ral can by no means set their Horses together; however that <hi>Tyrcennel,</hi> and his Cabal, prevail above the other in all Debates and Consulta<g ref="char:EOLhyphen"/>tions: For which, if neither party prevail, (as it is morally improbable) the late King is like to be thank'd over the Left Shoulder by his <hi>French</hi> Assistant, and then where will he hide his Head?</p>
+            <p>The Gentleman's Correspondent sends word that after the Closing of these Letters, a Man that came just then from <hi>Armah</hi> brought word, that upon the 7th of <hi>May,</hi> by Day-brake, <hi>O Regan,</hi> Governor of <hi>Charlemont,</hi> March'd from his Garrison with 500 Men, intending to have surpriz'd a small Fort which the <hi>English</hi> have upon the <hi>Black water,</hi> near <hi>Benbu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be,</hi> 12 Miles distant from <hi>Charlemont;</hi> which Fort is kept by one Captain <hi>Moore,</hi> with a Detach<g ref="char:EOLhyphen"/>ment of a Hundred of <hi>In<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kill<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Men, Who being Alarm'd by the Out Centinels that were beaten in, he presently put his Men in Order, and Marching boldly out, Encounter'd the Enemy in the open Field, being divided into Three Squadrons, the one drawn up before the other: The first of which the Captain At<g ref="char:EOLhyphen"/>tack'd so vigorously, that he quickly put them to the Rout; which strook such a Terror in<g ref="char:EOLhyphen"/>to the other Two, that they flung down their Arms, and ran for it. <hi>O Regan</hi> with the great<g ref="char:EOLhyphen"/>est Number of his Party fled toward <hi>Cawfeild,</hi> the rest toward <hi>Lough Gall,</hi> where some of Colonel <hi>Duncomb</hi>'s <hi>French</hi> being Quarter'd, Is<g ref="char:EOLhyphen"/>su'd out, and having knock'd several of the Fugitives on the Head, brought in Thirteen Prisoners. And when the Man came away, which was about Nine of the Clock, he says, that all the Country was up in pursuit of those that escap'd: but how many of the Enemy were Kill'd, he could not then learn: but that of the <hi>English</hi> Twelve or Thirteen were Slain, and several Wounded.</p>
+            <p>Lieutenant <hi>George Murray</hi> who was taken Prisoner at <hi>Perth,</hi> about a Twelve Month a<g ref="char:EOLhyphen"/>go by Viscount <hi>Dundee,</hi> and was detain'd a Prisoner ever since, for the most part, in the Island of <hi>Mull,</hi> till lately exchang'd for Cap<g ref="char:EOLhyphen"/>tain <hi>Dunbar,</hi> arriv'd here on <hi>Tuesday</hi> Night, being the 6th Instant, and gives this Incourage<g ref="char:EOLhyphen"/>ment to all honest Men here, that the Rebels are in great Consternation, fearing they shall be disappointed of Relief from <hi>Ireland;</hi> and that he makes no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubt, but the Common Peo<g ref="char:EOLhyphen"/>ple will submit upon the first appearance of any of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Majesties Forces.</p>
+            <div type="part">
+               <head>Affairs in Parliament.</head>
+               <p>Upon the 8th Instant t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Parliament met, at what time the first thing mov'd, was the appointing a Com<g ref="char:EOLhyphen"/>mittee of Elections. But the King's Advocate urged, that the Act concerning the Repeal of the former Com<g ref="char:EOLhyphen"/>mittee of Parliament call'd the Articles, which had been already declared a Grievance by the Committee of Estates, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght to be first considered. On the other side the Duke of <hi>Hamilton</hi> moved; that the Act for Freedom of Speech might be taken into consideration in the first place; but both being put to the Vote, it was carried for the fo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er.</p>
+               <p>Then the Earl of <hi>Argyle</hi> delivered in the Act which rescinded the former A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in relation to the Articles, by which the Officers of State were to be Supernumerary in that Committee, and declaring that the King, or his Commissioners, might appoint the Officers of St<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to Sit, but not Vote: Nevertheless, that the Bench of Noblemen might ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se the Officers of State to be Mem<g ref="char:EOLhyphen"/>bers of the Committee, notwithstanding their being Officers of State.</p>
+               <p>Sir <hi>James Ogilby</hi> also delivered in another Act drawn up after the same manner, if it might <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r rather be said to be a Copy: And the Duke of <hi>Hamilton</hi> brought in another Act, almost of the same Nature, for conti<g ref="char:EOLhyphen"/>nuing the Articles. This occasioned a Debate which of the Three should be taken into consideration till Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>James Ogilby</hi> giving way to the Earl of <hi>Argyle,</hi> the De<g ref="char:EOLhyphen"/>bate was contracted into which of the Two <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hould be first considered; but then there being but 15 for the Duke of <hi>Hamilton</hi>'s Bill, it was laid aside, and the Earl of <hi>Argyles</hi> was with very little Amendment approved, and immediately touched with the Scepter, in token of the Royal Assent.</p>
+               <p>The next thing in Debate was, Whether Church-Go<g ref="char:EOLhyphen"/>vernment should be committed, or put off till a farther time? And it was carried in the Affirmative that it should be committed.</p>
+               <p>In the next place it was debated, Whether the For<g ref="char:EOLhyphen"/>feitures and Fines should be deferred for farther Con<g ref="char:EOLhyphen"/>sideration, or committed? And carried in the Affirma<g ref="char:EOLhyphen"/>tive.</p>
+               <p>After that, the Supply for his Majesty was moved, and carried by number of Votes to be committed, as was also the Act for Freedom of Speech.</p>
+               <p>Then the Parliament having sate long, till five of the Clock, some were for Adjourning, but others mov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d that the Three several Estates might remove into sepa<g ref="char:EOLhyphen"/>rate Apartments, and chuse their Members for the fore<g ref="char:EOLhyphen"/>said several Committees, but that was put off till the next morning.</p>
+               <p>Then the Estate of the Boroughs brought in an Act for the Repeal of an Act of <hi>Charles</hi> II. by vertue of which the Unfree Corporations incroached upon their Trade, which was once Read, and put off till the next morning at Eight of the Clock, till which time the House adjourned. In all which Proceedings the People here are extremely well satisfied, as believing them to be great steps toward the Settlement both of Church and State.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> L. C. <hi>near</hi> Fleet-Bridge. <hi>1690.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
